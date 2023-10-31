@@ -6,6 +6,6 @@
 
 ```pip install -r requirements.txt```
 
-2. Créer un fichier .env avec votre Clef API d'OpenAI
+2. Create a .env file with your OpenAI API key
 
-```echo "OPENAI_API_KEY=votre-clef-api" >> .env```
+```echo "OPENAI_API_KEY=your-api-key" >> .env```
