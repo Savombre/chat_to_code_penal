@@ -6,6 +6,9 @@
 
 ```pip install -r requirements.txt```
 
-2. Create a .env file with your OpenAI API key
+2. Rename the .env.template into .env
 
-```echo "OPENAI_API_KEY=your-api-key" >> .env```
+And enter it your OpenAI Key
+And optionnally your langchain keys
+
+3. Have fun !
